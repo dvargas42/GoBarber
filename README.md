@@ -21,7 +21,7 @@
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/dvargas42/gobarber-api?color=%23FF9000">
   </a>
 
-  <a href="https://github.com/EliasGcf/gobarber-api/issues">
+  <a href="https://github.com/dvargas42/GoBarber/issues">
     <img alt="Repository issues" src="https://img.shields.io/github/issues/dvargas42/gobarber-api?color=%23FF9000">
   </a>
 
@@ -37,7 +37,7 @@
 </p>
 
 <p id="insomniaButton" align="center">
-  <a href="https://insomnia.rest/run/?label=GoBarber%20-%20EliasGcf&uri=https%3A%2F%2Fraw.githubusercontent.com%2FEliasGcf%2Fgobarber-api%2Fmaster%2FInsomnia.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
+  <a href="" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
 </p>
 
 ## 💇🏻‍♂️ About the project
