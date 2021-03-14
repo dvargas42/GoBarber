@@ -15,10 +15,10 @@
     <img alt="Made by" src="https://img.shields.io/badge/made%20by-daniel%20vargas-%23FF9000">
   </a>
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/EliasGcf/gobarber-api?color=%23FF9000">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/dvargas42/gobarber-api?color=%23FF9000">
 
   <a href="https://github.com/EliasGcf/gobarber-api/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/EliasGcf/gobarber-api?color=%23FF9000">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/dvargas42/gobarber-api?color=%23FF9000">
   </a>
 
   <a href="https://github.com/EliasGcf/gobarber-api/issues">
