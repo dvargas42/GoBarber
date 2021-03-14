@@ -9,7 +9,7 @@
 <p align="center">The best way to schedule your service!</p>
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/EliasGcf/gobarber-api?color=%23FF9000">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/dvargas42/gobarber-api?color=%23FF9000">
 
   <a href="https://www.linkedin.com/in/daniel-santos-040983ab/" target="_blank" rel="noopener noreferrer">
     <img alt="Made by" src="https://img.shields.io/badge/made%20by-daniel%20vargas-%23FF9000">
@@ -17,15 +17,15 @@
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/dvargas42/gobarber-api?color=%23FF9000">
 
-  <a href="https://github.com/EliasGcf/gobarber-api/commits/master">
+  <a href="https://github.com/dvargas42/GoBarber/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/dvargas42/gobarber-api?color=%23FF9000">
   </a>
 
   <a href="https://github.com/EliasGcf/gobarber-api/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/EliasGcf/gobarber-api?color=%23FF9000">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/dvargas42/gobarber-api?color=%23FF9000">
   </a>
 
-  <img alt="GitHub" src="https://img.shields.io/github/license/EliasGcf/gobarber-api?color=%23FF9000">
+  <img alt="GitHub" src="https://img.shields.io/github/license/dvargas42/dvargas42?color=%23FF9000">
 </p>
 
 <p align="center">
@@ -154,4 +154,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Made with 💜 &nbsp;by Elias Gabriel 👋 &nbsp;[See my linkedin](https://www.linkedin.com/in/eliasgcf/)
+Made with 💜 &nbsp;by Daniel Vargas 👋 &nbsp;[See my linkedin](https://www.linkedin.com/in/daniel-santos-040983ab/)
