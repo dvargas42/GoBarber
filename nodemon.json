@@ -1,5 +1,5 @@
 {
-  "execMap": {asdfadf
+  "execMap": {
     "js": "node -r sucrase/register"
   }
 }
